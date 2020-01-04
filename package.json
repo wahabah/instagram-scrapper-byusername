@@ -1,0 +1,21 @@
+{
+  "name": "webApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Rana Bilal",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "dotenv": "^8.1.0",
+    "express": "latest",
+    "forever": "^1.0.0",
+    "request": "latest",
+    "sync-request": "^6.1.0",
+    "xmlhttprequest": "latest"
+  }
+}
